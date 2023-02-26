@@ -1,6 +1,6 @@
 # Expert-System
 
-Github Ini berisi Seluruh Tugas Mata Kuliah Expert System
+Github Ini berisi Seluruh Tugas Program Mata Kuliah Expert System
 
 Nama Lengkap: Moh. Milki I.M
 
